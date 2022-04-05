@@ -1,0 +1,43 @@
+h2{
+    color:rgb(151, 52, 233);
+    font-family:cursive;
+  
+}
+img{
+    width:700px;
+    height:500px;
+}
+
+.movie_head
+{
+ font-size: 20px;
+ padding:6px 22px;
+ border-radius:10px;
+ margin-bottom:15px;
+ background-color:rgb(185, 250, 241);
+ color:rgb(157, 74, 234);
+}
+.movie_head i
+{
+float:right;
+}
+.movie_text span
+{
+    color:rgb(255, 182, 25);
+
+}
+.travel_mainDiv{
+border:2px solid rgb(57, 4, 248);
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.campus_life iframe{
+width:100%;
+}
+.new{
+margin-bottom:20px;    
+}
+#contact iframe{
+ width:100%;   
+}
